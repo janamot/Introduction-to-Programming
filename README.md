@@ -16,3 +16,5 @@
 1. Běžně používané datové typy a třídy.
 1. Analýza výstupů programu (profiling)
 
+návod na spuštění programu
+
