@@ -1,1 +1,2 @@
-print("hello")
+jmeno = input("Jak se jmenujete?")
+
